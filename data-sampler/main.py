@@ -8,9 +8,8 @@
 #       (4) three random subsets of 1,000 active voters whose q-gram sets are unique and not overlapping with the other nine subsets
 #
 # in addition to the above, it also samples a base set of 1 million active voters whose q-gram sets are unique and
-# not overlapping with the above twelve subsets
+# not overlapping with the above twelve subsets.
 #
-
 
 import csv
 import gzip
