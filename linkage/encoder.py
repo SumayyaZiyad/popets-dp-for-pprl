@@ -1,8 +1,6 @@
 # this script performs linkage (for different hardening configurations) on the twelve subsets of filtered voter
 # q-grams sets.
 #
-# Original version: 26th June 2025, Sumayya Z
-#
 
 
 import copy

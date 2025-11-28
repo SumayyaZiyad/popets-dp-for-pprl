@@ -1,7 +1,5 @@
 # simcalc.py - Implementation of various similarity functions, both q-gram and
 # bit-array based.
-#
-# Peter Christen, September 2018
 # -----------------------------------------------------------------------------
 
 def q_gram_dice_sim(q_gram_set1, q_gram_set2):

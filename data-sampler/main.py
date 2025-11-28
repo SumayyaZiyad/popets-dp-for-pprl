@@ -10,8 +10,6 @@
 # in addition to the above, it also samples a base set of 1 million active voters whose q-gram sets are unique and
 # not overlapping with the above twelve subsets
 #
-# Original version: 26th June 2025, Sumayya Z
-#
 
 
 import csv

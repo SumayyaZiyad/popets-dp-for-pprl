@@ -1,37 +1,3 @@
-# hashing.py - Module that implements several Bloom filter hashing methods
-#
-# Peter Christen, Thilina Ranbaduge, Sirintra Vaiwsri, and Anushka Vidanage
-#
-# Contact: peter.christen@anu.edu.au
-#
-# To run some test call from the command line:
-#
-#   python hashing.py
-#
-# Research School of Computer Science, The Australian National University,
-# Canberra, ACT, 2600
-# -----------------------------------------------------------------------------
-#
-# Copyright 2020 Australian National University and others.
-# All Rights reserved.
-#
-# -----------------------------------------------------------------------------
-#
-# This program is free software: you can redistribute it and/or modify it under
-# the terms of the GNU General Public License as published by the Free Software
-# Foundation, either version 3 of the License, or (at your option) any later
-# version.
-#
-# This program is distributed in the hope that it will be useful, but WITHOUT
-# ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
-# FOR A PARTICULAR PURPOSE. See the GNU General Public License for more
-# details.
-#
-# You should have received a copy of the GNU General Public License along with
-# this program.  If not, see <http://www.gnu.org/licenses/>.
-#
-# =============================================================================
-
 import hashlib  # A standard Python library
 import random  # For random hashing
 
